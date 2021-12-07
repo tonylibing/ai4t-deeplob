@@ -1,0 +1,4 @@
+jupyterlab==3.2.4
+numpy==1.21.4
+pytorch-lightning==1.5.4
+torch==1.10.0
