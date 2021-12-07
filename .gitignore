@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 .idea
 __pycache__
-*.zip
-*.txt
+data/*.zip
+data/*.txt
+lightning_logs
